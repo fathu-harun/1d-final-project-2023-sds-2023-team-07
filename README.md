@@ -3,7 +3,7 @@ We implore you to visit our Google Sites ( https://sites.google.com/mymail.sutd.
 But if you have seen our project presentation before, you can carry on reading.
 
 
-Below are important links for our project submission:
+Below are important links for our project:
 1) Design Workbook
 https://docs.google.com/document/d/1P8lq3GXaif2Wbx9ZP5KB3B3RvaBtG7bpwz90oUHg3nw/edit?pli=1#heading=h.d0arj78x52y5
 2) Google Sites
